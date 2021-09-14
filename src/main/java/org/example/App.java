@@ -12,7 +12,6 @@ public class App
     {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter C if you would like to convert from Fahrenheit to Celsius. \nEnter F if you would like to convert Celsius to Fahrenheit. \nYour Choice: ");
-        //System.out.print("\nYour Choice: ");
         String choice = input.nextLine();
 
         //double CtoF = ()
